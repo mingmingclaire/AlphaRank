@@ -35,9 +35,9 @@ Size and frequency of data writes/reads.
 Storage requirements (backup and replication).
 High-availability configurations and scaling needs.
 
-  Mitigation Strategies:
-  Archive old data to cheaper storage solutions.
-  Use appropriate indexing and query optimization.
+Mitigation Strategies:
+Archive old data to cheaper storage solutions.
+Use appropriate indexing and query optimization.
 -----
 
 4. Other Storage Cost
